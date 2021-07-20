@@ -23,4 +23,4 @@
 </h2>
 <p>
   Entre agora no app e saia dirigindo e descobrindo o seu redor, compartilhe com seus amigos e faça essa comunidade crescer, trazendo assim mais opções de veículos para todos!
-  <a href="https://alugamais.netlify.app/">Confira o app aqui!</a>
+  <a href="https://alugamais2.netlify.app/">Confira o app aqui!</a>
